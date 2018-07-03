@@ -1,6 +1,6 @@
 ## Devcamp JS Footer
 
->THis should be used in the following manner
+>This should be used in the following manner
 
 Install with the command:
 
